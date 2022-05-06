@@ -1,0 +1,17 @@
+<div *ngIf="isShow">
+    <h1>Show this div on show button click</h1>
+</div>
+<br>
+<br>
+<br>
+
+<div *ngIf="!isShow">
+    <h1>Hide this on click of hide button </h1>
+</div>
+
+
+<button (click)="showDiv()">Show</button>
+<br>
+<br>
+<br>
+<button (click)="hideDiv()">Hide</button>

@@ -1,0 +1,38 @@
+Angular Topics
+    - SPA, CSR & SSR 
+    - Installation Nodejs and npm
+    - Installation of git bash and creating git hub account
+    - creation of angular application and folder structure
+    - component and module file creation 
+    - routing betn components using routing module
+
+
+
+
+
+
+
+
+-----------------------------------class-notes-----------------------------------------------
+
+
+Directives
+    DOM
+    - structural
+    -attribute
+    -component
+
+    -NgIf
+
+
+    0*0 =1
+    0*1 =0
+    1*1 =1
+    1*0 =0
+
+    *ngFor
+
+    elements =[{name:"hydrogen",weight:1.234,symbol:"H"}]
+
+    attibute Directives
+        ngClass ngStyles ngModel
