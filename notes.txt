@@ -36,3 +36,6 @@ Directives
 
     attibute Directives
         ngClass ngStyles ngModel
+
+
+
